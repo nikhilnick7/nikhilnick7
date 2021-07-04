@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikhilnick7
 - 👀 I’m looking for a job in  any oraganisation
-- 🌱 I’m currently learning java and programming languages and iam 2020 passed out
-- 💞️ I’m looking to collaborate as freshedr trainee or assistant job role
+- 🌱 I’m currently learning java and programming languages and i am 2020 passed out
+- 💞️ I’m looking to collaborate as fresher trainee or IT job role
 - 📫 to reach  me .   nikhilnick1106@gmail.com     mobile no: 7995593280
 
 <!---
